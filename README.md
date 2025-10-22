@@ -1,70 +1,87 @@
-# React.js and Tailwind CSS Assignment
+# React Frontend Development Assignment – MontelNuru
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+## 🚀 Project Overview
+This project is a React application built with Vite and styled using Tailwind CSS.  
+It demonstrates component-based architecture, state management with React Hooks, API integration, and responsive design.
 
-## Assignment Overview
+## 📂 Features
+- Reusable UI components (Button, Card, Navbar, Footer)  
+- Task Manager using useState, useEffect, and custom useLocalStorage hook  
+- Dynamic routing with React Router  
+- API integration using JSONPlaceholder  
+- Responsive Tailwind styling and dark mode base setup
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+## ⚙️ Installation & Setup
 
-## Getting Started
-
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
+   cd react-js-assignment
    ```
+
+2. Install dependencies:
+   ```bash
    npm install
    ```
-4. Start the development server:
-   ```
+
+3. Run the development server:
+   ```bash
    npm run dev
    ```
 
-## Files Included
+4. Open your browser at:
+   ```
+   http://localhost:5173
+   ```
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+## 🌐 Deployment
+Recommended: Vercel (also works with Netlify/GitHub Pages)
 
-## Requirements
+- Live URL (example): https://your-project-url.vercel.app
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+## 📸 Screenshots
+Create a /screenshots folder at project root and add:
+- home.png
+- tasks.png
+- api.png
 
-## Project Structure
+## 🧠 Technologies Used
+- React 18
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
+- JSONPlaceholder API
 
+## ✨ Author
+Montel Nuru — include your GitHub profile link here.
+
+---
+
+### 📸 Add Screenshots
+Inside your project root, create:
 ```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
+/screenshots
+├── home.png
+├── tasks.png
+└── api.png
 ```
+Take actual screenshots of your running app and save them there.
 
-## Submission
+---
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+### 🚀 Deployment (Vercel)
+1. Go to https://vercel.com  
+2. Click “New Project” → Import your GitHub repo  
+3. Let it auto-detect Vite → Click “Deploy”  
+4. Copy the Live URL and paste it into this README
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
+---
 
-## Resources
-
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+### 💾 Commit and Push Regularly
+In the VS Code terminal, run:
+```bash
+git add .
+git commit -m "Final React Assignment Submission"
+git push origin main
+```
