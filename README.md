@@ -1,4 +1,4 @@
-# React Frontend Development Assignment – MontelNuru
+# React Frontend Development Assignment – Joshua Nuru
 
 ## 🚀 Project Overview
 This project is a React application built with Vite and styled using Tailwind CSS.  
@@ -40,7 +40,6 @@ Recommended: Vercel (also works with Netlify/GitHub Pages)
 - Live URL (example): https://your-project-url.vercel.app
 
 ## 📸 Screenshots
-Create a /screenshots folder at project root and add:
 - home.png
 - tasks.png
 - api.png
@@ -54,11 +53,11 @@ Create a /screenshots folder at project root and add:
 - JSONPlaceholder API
 
 ## ✨ Author
-Montel Nuru — include your GitHub profile link here.
+Joshua Nuru — include your GitHub profile link here.
 
 ---
 
-### 📸 Add Screenshots
+### 📸 Screenshots
 Inside your project root, create:
 ```
 /screenshots
