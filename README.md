@@ -15,8 +15,8 @@ It demonstrates component-based architecture, state management with React Hooks,
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd react-js-assignment
+   git clone <https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-montelnurujosh.git>
+   cd react-js-jsx-and-css-mastering-front-end-development-montelnurujosh.git
    ```
 
 2. Install dependencies:
