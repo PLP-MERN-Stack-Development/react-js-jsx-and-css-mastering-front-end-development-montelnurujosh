@@ -53,7 +53,7 @@ Recommended: Vercel (also works with Netlify/GitHub Pages)
 - JSONPlaceholder API
 
 ## ✨ Author
-Joshua Nuru — include your GitHub profile link here.
+Joshua Nuru — https://github.com/montelnurujosh.
 
 ---
 
