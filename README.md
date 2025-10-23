@@ -35,9 +35,8 @@ It demonstrates component-based architecture, state management with React Hooks,
    ```
 
 ## 🌐 Deployment
-Recommended: Vercel (also works with Netlify/GitHub Pages)
 
-- Live URL (example): https://your-project-url.vercel.app
+- Live URL : https://react-js-jsx-and-css-mastering-fron-three.vercel.app/
 
 ## 📸 Screenshots
 - home.png
@@ -53,7 +52,7 @@ Recommended: Vercel (also works with Netlify/GitHub Pages)
 - JSONPlaceholder API
 
 ## ✨ Author
-Joshua Nuru — https://github.com/montelnurujosh.
+Joshua Nuru — (https://github.com/montelnurujosh)
 
 ---
 
